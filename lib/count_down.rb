@@ -1,3 +1,4 @@
 # Write your code here
 counter = 1 
-while 
+while counter < 10 
+  puts 
